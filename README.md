@@ -9,7 +9,7 @@ The goal of Phase 1 is to assess data completeness, linkage, and scrappage behav
 
 Phase1_Data_Inventory_Memo.md — A data inventory memo summarizing key findings, data coverage, and policy context.
 
-Plots/ — Folder containing all figures (32 items) for Phase 1 referenced in the memo (scrapping trends, lifetimes, emission completeness, and policy visuals).
+Plots/ — Folder containing all figures (34 items) for Phase 1 referenced in the memo (scrapping trends, lifetimes, emission completeness, and policy visuals).
 
 ### How to Use
 
