@@ -34,12 +34,12 @@ The registry achieves near-universal vehicle coverage by the mid-1990s. Emission
 
 Phase 1 visual diagnostics focused on understanding the timing and composition of scrapped vehicles. The following figures document scrapping coverage and lifetime dynamics:
 
-- [Fig. 1: scrap_trend_by_fuel_logscale_all20.png](Plots/scrap_trend_by_fuel_logscale_all20.png)
-- [Fig. 2: scrap_lifetime_trend_by_year_all20.png](Plots/scrap_lifetime_trend_by_year_all20.png)
-- [Fig. 3: scrap_lifetime_by_decade.png](Plots/scrap_lifetime_by_decade.png)
-- [Fig. 4: scrap_lifetime_plot_by_fuel.png](Plots/scrap_lifetime_plot_by_fuel.png)
-- [Fig. 5: box_lifetime_years_by_fuel.png](Plots/box_lifetime_years_by_fuel.png)
-- [Fig. 6: hist_lifetime_years_all_scrapped.png](Plots/hist_lifetime_years_all_scrapped.png)
+- [Fig. 1: scrap_trend_by_fuel_logscale_all20.png](Plot/scrap_trend_by_fuel_logscale_all20.png)
+- [Fig. 2: scrap_lifetime_trend_by_year_all20.png](Plot/scrap_lifetime_trend_by_year_all20.png)
+- [Fig. 3: scrap_lifetime_by_decade.png](Plot/scrap_lifetime_by_decade.png)
+- [Fig. 4: scrap_lifetime_plot_by_fuel.png](Plot/scrap_lifetime_plot_by_fuel.png)
+- [Fig. 5: box_lifetime_years_by_fuel.png](Plot/box_lifetime_years_by_fuel.png)
+- [Fig. 6: hist_lifetime_years_all_scrapped.png](Plot/hist_lifetime_years_all_scrapped.png)
 
 The long-term evolution of scrappage patterns (Figs. 1–6) shows that gasoline vehicles dominated the Norwegian fleet until around 2010. Diesel scrappage rose sharply through the 2010s and peaked around 2018, reflecting urban diesel restrictions and falling resale values. The number of electric and hybrid scrappages remains low in absolute terms but is increasing rapidly.
 
@@ -53,14 +53,14 @@ The figures by registration decade and scrappage year (Figs. 3–4) reveal clear
 
 The composition of scrapped vehicles provides insight into which types of cars exit the fleet first. Relevant figures include:
 
-- [Fig. 7: scrapped_vehicle_characteristics_trend.png](Plots/scrapped_vehicle_characteristics_trend.png)
-- [Fig. 8: box_TEKN_CO2_UTSLIPP_by_fuel.png](Plots/box_TEKN_CO2_UTSLIPP_by_fuel.png)
-- [Fig. 9: box_TEKN_NOX_UTSLIPP_MGPRKM_by_fuel.png](Plots/box_TEKN_NOX_UTSLIPP_MGPRKM_by_fuel.png)
-- [Fig. 10: box_TEKN_MOTORYTELSE_by_fuel.png](Plots/box_TEKN_MOTORYTELSE_by_fuel.png)
-- [Fig. 11: box_TEKN_EGENVEKT_by_fuel.png](Plots/box_TEKN_EGENVEKT_by_fuel.png)
-- [Fig. 12: box_TEKN_SLAGVOLUM_by_fuel.png](Plots/box_TEKN_SLAGVOLUM_by_fuel.png)
-- [Fig. 13: kde_lifetime_years_by_fuel.png](Plots/kde_lifetime_years_by_fuel.png)
-- [Fig. 14: kde_TEKN_CO2_UTSLIPP_by_fuel.png](Plots/kde_TEKN_CO2_UTSLIPP_by_fuel.png)
+- [Fig. 7: scrapped_vehicle_characteristics_trend.png](Plot/scrapped_vehicle_characteristics_trend.png)
+- [Fig. 8: box_TEKN_CO2_UTSLIPP_by_fuel.png](Plot/box_TEKN_CO2_UTSLIPP_by_fuel.png)
+- [Fig. 9: box_TEKN_NOX_UTSLIPP_MGPRKM_by_fuel.png](Plot/box_TEKN_NOX_UTSLIPP_MGPRKM_by_fuel.png)
+- [Fig. 10: box_TEKN_MOTORYTELSE_by_fuel.png](Plot/box_TEKN_MOTORYTELSE_by_fuel.png)
+- [Fig. 11: box_TEKN_EGENVEKT_by_fuel.png](Plot/box_TEKN_EGENVEKT_by_fuel.png)
+- [Fig. 12: box_TEKN_SLAGVOLUM_by_fuel.png](Plot/box_TEKN_SLAGVOLUM_by_fuel.png)
+- [Fig. 13: kde_lifetime_years_by_fuel.png](Plot/kde_lifetime_years_by_fuel.png)
+- [Fig. 14: kde_TEKN_CO2_UTSLIPP_by_fuel.png](Plot/kde_TEKN_CO2_UTSLIPP_by_fuel.png)
 
 Across decades, the average scrapped car has become heavier and more powerful (Figs. 7–14), mirroring Norway’s shift toward larger vehicle classes such as SUVs and plug-in hybrids. Electric vehicles have the lowest engine displacement and relatively low weight, while gas-, CNG-, and ethanol-fueled vehicles are the largest and heaviest. At scrappage, CO₂ and NOₓ emissions follow predictable fuel-type patterns: gasoline vehicles emit more CO₂, diesel vehicles emit far more NOₓ, and EVs produce nearly zero emissions.
 
@@ -70,12 +70,12 @@ Across decades, the average scrapped car has become heavier and more powerful (F
 
 A crucial task in Phase 1 was to assess how well technical and usage datasets link across time. The following figures document completeness trends and missingness patterns:
 
-- [Fig. 15: odometer_coverage_trend.png](Plots/odometer_coverage_trend.png)
-- [Fig. 16: plot_phase1_missingness_corrected.png](Plots/plot_phase1_missingness_corrected.png)
-- [Fig. 17: emission_data_completeness_trend_by_year.png](Plots/emission_data_completeness_trend_by_year.png)
-- [Fig. 18: emission_data_completeness_trend_by_decade.png](Plots/emission_data_completeness_trend_by_decade.png)
-- [Fig. 19: emission_missing_vintages_plot.png](Plots/emission_missing_vintages_plot.png)
-- [Fig. 20: emission_all_emission_variables_trend.png](Plots/emission_all_emission_variables_trend.png)
+- [Fig. 15: odometer_coverage_trend.png](Plot/odometer_coverage_trend.png)
+- [Fig. 16: plot_phase1_missingness_corrected.png](Plot/plot_phase1_missingness_corrected.png)
+- [Fig. 17: emission_data_completeness_trend_by_year.png](Plot/emission_data_completeness_trend_by_year.png)
+- [Fig. 18: emission_data_completeness_trend_by_decade.png](Plot/emission_data_completeness_trend_by_decade.png)
+- [Fig. 19: emission_missing_vintages_plot.png](Plot/emission_missing_vintages_plot.png)
+- [Fig. 20: emission_all_emission_variables_trend.png](Plot/emission_all_emission_variables_trend.png)
 
 Odometer coverage (Fig. 15) rose sharply after the early 2000s, coinciding with the rollout of the centralized vehicle inspection database. By 2010, over 90% of scrapped vehicles included at least one odometer reading, enabling reliable lifetime usage estimates.
 
@@ -94,22 +94,22 @@ To achieve complete emission coverage in later analyses, additional datasets are
 
 The Norwegian policy environment experienced major shifts between the 1980s and 2020s, which have direct implications for scrapping incentives. The following plots summarize these developments:
 
-- [Fig. 21: tax_components_timeline.png](Plots/tax_components_timeline.png)
-- [Fig. 22: fuel_price_trend.png](Plots/fuel_price_trend.png)
-- [Fig. 23: map_toll_costs_2023_lines_fixed.png](Plots/map_toll_costs_2023_lines_fixed.png)
-- [Fig. 24: toll_map_animation_better.webm](Plots/toll_map_animation_better.webm)
-- [Fig. 25: scatter_ev_vs_toll.png](Plots/scatter_ev_vs_toll.png)
-- [Fig. 26: toll_vs_income_scatter.png](Plots/toll_vs_income_scatter.png)
-- [Fig. 27: ev_share_and_models_trend.png](Plots/ev_share_and_models_trend.png)
-- [Fig. 28: ev_model_count_trend.png](Plots/ev_model_count_trend.png)
+- [Fig. 21: tax_components_timeline.png](Plot/tax_components_timeline.png)
+- [Fig. 22: fuel_price_trend.png](Plot/fuel_price_trend.png)
+- [Fig. 23: map_toll_costs_2023_lines_fixed.png](Plot/map_toll_costs_2023_lines_fixed.png)
+- [Fig. 24: toll_map_animation_better.webm](Plot/toll_map_animation_better.webm)
+- [Fig. 25: scatter_ev_vs_toll.png](Plot/scatter_ev_vs_toll.png)
+- [Fig. 26: toll_vs_income_scatter.png](Plot/toll_vs_income_scatter.png)
+- [Fig. 27: ev_share_and_models_trend.png](Plot/ev_share_and_models_trend.png)
+- [Fig. 28: ev_model_count_trend.png](Plot/ev_model_count_trend.png)
 
-**Tax Policy Evolution:** Prior to 2008, registration taxes were primarily determined by vehicle weight, engine displacement, and horsepower. The 2007–2008 reform introduced CO₂ and NOₓ as explicit components, dramatically altering consumer incentives. The reform coincides with a visible decline in average emission intensities and accelerated replacement of high-emission diesel models. [Fig. 21](Plots/tax_components_timeline.png) illustrates this structural break, showing how fiscal instruments were redirected toward environmental objectives.
+**Tax Policy Evolution:** Prior to 2008, registration taxes were primarily determined by vehicle weight, engine displacement, and horsepower. The 2007–2008 reform introduced CO₂ and NOₓ as explicit components, dramatically altering consumer incentives. The reform coincides with a visible decline in average emission intensities and accelerated replacement of high-emission diesel models. [Fig. 21](Plot/tax_components_timeline.png) illustrates this structural break, showing how fiscal instruments were redirected toward environmental objectives.
 
-**Fuel Prices and Running Costs:** [Fig. 22](Plots/fuel_price_trend.png) shows that fuel prices have risen steadily over time. Diesel prices, which were lower for many years, started to climb faster after 2015 when new taxes removed their earlier cost advantage. Combined with rising maintenance costs and reduced residual values, this contributed to higher diesel scrappage rates in the late 2010s.
+**Fuel Prices and Running Costs:** [Fig. 22](Plot/fuel_price_trend.png) shows that fuel prices have risen steadily over time. Diesel prices, which were lower for many years, started to climb faster after 2015 when new taxes removed their earlier cost advantage. Combined with rising maintenance costs and reduced residual values, this contributed to higher diesel scrappage rates in the late 2010s.
 
-**Toll and Geographic Variation:** Spatial variation in toll charges is evident in [Figs. 23–24](Plots/map_toll_costs_2023_lines_fixed.png). Municipal differences in toll exemptions for EVs created heterogeneous adoption incentives. [Figs. 25–26](Plots/scatter_ev_vs_toll.png) confirm that EV penetration correlates positively with both higher toll costs and higher average income levels, reflecting the distributional patterns DEEP aims to explore further.
+**Toll and Geographic Variation:** Spatial variation in toll charges is evident in [Figs. 23–24](Plot/map_toll_costs_2023_lines_fixed.png). Municipal differences in toll exemptions for EVs created heterogeneous adoption incentives. [Figs. 25–26](Plot/scatter_ev_vs_toll.png) confirm that EV penetration correlates positively with both higher toll costs and higher average income levels, reflecting the distributional patterns DEEP aims to explore further.
 
-**EV Market Expansion:** [Figs. 27–28](Plots/ev_share_and_models_trend.png) trace the rapid increase in EV availability from fewer than 10 models in 2010 to over 100 by 2022. This expansion overlaps precisely with the policy reform period, providing an important contextual variable for future empirical modeling.
+**EV Market Expansion:** [Figs. 27–28](Plot/ev_share_and_models_trend.png) trace the rapid increase in EV availability from fewer than 10 models in 2010 to over 100 by 2022. This expansion overlaps precisely with the policy reform period, providing an important contextual variable for future empirical modeling.
 
 ---
 
