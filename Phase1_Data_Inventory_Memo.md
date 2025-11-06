@@ -34,7 +34,7 @@ The registry achieves near-universal vehicle coverage by the mid-1990s. Emission
 
 Phase 1 visual diagnostics focused on understanding the timing and composition of scrapped vehicles. The following figures document scrapping coverage and lifetime dynamics:
 
-- [Fig. 1: scrap_trend_by_fuel_logscale_all20.png](Plot/scrap_trend_by_fuel_logscale_all20.png)
+- [Fig. 1: scrap_trend_by_fuel_logscale_all20.png](Plots/scrap_trend_by_fuel_logscale_all20.png)
 - [Fig. 2: scrap_lifetime_trend_by_year_all20.png](Plots/scrap_lifetime_trend_by_year_all20.png)
 - [Fig. 3: scrap_lifetime_by_decade.png](Plots/scrap_lifetime_by_decade.png)
 - [Fig. 4: scrap_lifetime_plot_by_fuel.png](Plots/scrap_lifetime_plot_by_fuel.png)
