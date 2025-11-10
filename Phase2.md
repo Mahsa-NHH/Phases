@@ -42,7 +42,7 @@ Link NPRA and OFV data by make, model, year, and/or fuel to retrieve CO₂ and N
 
 ### Fallback (VCA)
 
-Focus only on relevant emission columns: **`WLTP CO2`**, **`WLTP Metric Combined`** for CO₂, and **`Emissions NOx [mg/km]`** for NOₓ.
+Focus on relevant emission columns: **`WLTP CO2`**, **`WLTP Metric Combined`** for CO₂, and **`Emissions NOx [mg/km]`** for NOₓ.
 
 | NPRA Field | VCA Field | Match Logic |
 |-------------|------------|--------------|
