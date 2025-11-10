@@ -66,6 +66,7 @@ The composition of scrapped vehicles provides insight into which types of cars e
 
 Across decades, the average scrapped car has become heavier and more powerful (Figs. 7–14), mirroring Norway’s shift toward larger vehicle classes such as SUVs and plug-in hybrids. Electric vehicles have the lowest engine displacement and relatively low weight, while gas-, CNG-, and ethanol-fueled vehicles are the largest and heaviest. At scrappage, CO₂ and NOₓ emissions follow predictable fuel-type patterns: gasoline vehicles emit more CO₂, diesel vehicles emit far more NOₓ, and EVs produce nearly zero emissions.
 Additional figures (Figs. 15–16) summarize scrappage patterns by vehicle brand and model. Volkswagen’s Passat and Golf, and Toyota Corolla appear most frequently due to their long-standing presence in the Norwegian fleet. Brand-level trends show Ford, Opel, and Volkswagen consistently dominating scrappage volumes since the 1990s. These patterns mirror long-term registration data from NPRA and OFV, confirming that the most sold brands over decades also account for the largest share of vehicles retired from the fleet [(OFV, The Norwegian Car Market 2024)](https://opplysningsraadet-for-veitrafikk-ofv.s3.amazonaws.com/pdf/Bil%C3%A5ret-2024_Norwegian-Car-Market-2024_English-version.pdf).
+
 ---
 
 ### 5. Linkage and Data Completeness
