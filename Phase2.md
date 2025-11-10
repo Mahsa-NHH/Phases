@@ -121,4 +121,3 @@ All scrapped vehicles will have harmonized CO₂ and NOₓ values and lifetime e
 
 ---
 
-*(≈3 pages total)*
