@@ -57,6 +57,7 @@ If multiple matches exist, average across the closest engine-size or fuel-type g
 ### Cluster-Based Estimation
 
 For cars still missing data, group by **fuel type × engine size × weight**, then assign cluster means of CO₂ and NOₓ.
+These clusters can be defined using quantiles or standard vehicle class thresholds for reproducibility.
 
 | Fuel | Engine (L) | Weight (kg) | Avg CO₂ (g/km) | Avg NOₓ (g/km) |
 |------|-------------|-------------|----------------|----------------|
