@@ -26,7 +26,7 @@ Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcom
 ### Scrappage subsidy programmes (“Cash for Clunkers”)  
 - **[Mian & Sufi (2012)](https://academic.oup.com/qje/article/127/3/1107/1924374)** – Diff-in-diff design; found U.S. 2009 programme pulled forward sales (~370 k) but produced no long-run gain.  
 - **[Li, Linn & Spiller (2013)](https://www.sciencedirect.com/science/article/abs/pii/S0095069612000678)** – Combined structural and diff-in-diff models; ~45 % of purchases non-additional; cost per t CO₂ very high.  
-- **[Hoekstra, Puller & West (2017)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cash+for+Corollas%3A+When+Stimulus+Reduces+Spending&btnG=)** – Regression discontinuity at MPG cutoff; many buyers would have purchased anyway; programme shifted buyers to cheaper models, reducing overall spending.  
+- **[Hoekstra, Puller & West (2017)](https://www.aeaweb.org/articles?id=10.1257/app.20150172)** – Regression discontinuity at MPG cutoff; many buyers would have purchased anyway; programme shifted buyers to cheaper models, reducing overall spending.  
 - **Relevance**: These studies show that scrappage subsidies often **shift timing rather than increase lifetime turnover**; for Norway, targeting and design must ensure additionality and cost-effectiveness.
 
 ### Dynamic replacement & consumer behaviour  
@@ -73,3 +73,4 @@ Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcom
 
 *End of summary.*
 ****
+
