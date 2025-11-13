@@ -30,7 +30,7 @@ Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcom
 - **Relevance**: These studies show that scrappage subsidies often **shift timing rather than increase lifetime turnover**; for Norway, targeting and design must ensure additionality and cost-effectiveness.
 
 ### Dynamic replacement & consumer behaviour  
-- **[Busse, Knittel & Zettelmeyer (2013)](https://www.jstor.org/stable/23594339)** – Reduced-form equilibrium model of car markets; found consumers almost fully value future fuel savings (little myopia).  
+- **[Busse, Knittel & Zettelmeyer (2013)](https://www.aeaweb.org/articles?id=10.1257/aer.103.1.220)** – Reduced-form equilibrium model of car markets; found consumers almost fully value future fuel savings (little myopia).  
 - **Relevance**: In Norway’s high fuel-cost environment, consumers likely value fuel economy strongly; scrappage programmes therefore serve more to overcome financing or liquidity constraints than behavioural biases.
 
 ### Emission-oriented fleet and technology models  
@@ -73,4 +73,5 @@ Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcom
 
 *End of summary.*
 ****
+
 
