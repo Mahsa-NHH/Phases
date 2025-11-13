@@ -1,7 +1,6 @@
 # Vehicle Scrappage and Fleet Turnover: Literature Review
 
-## Introduction  
-Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcomes and industry dynamics. Scrappage policies – from subsidies to retire old cars to fuel-economy standards that indirectly affect vehicle life-cycles – influence how quickly high-emitting vehicles exit the fleet. This review maps the literature, anchored in two central studies ([Adda & Cooper 2000](https://ideas.repec.org/a/ucp/jpolec/v108y2000i4p778-806.html); [Jacobsen & van Benthem 2015](https://www.aeaweb.org/articles?id=10.1257/aer.20130935)), and extending through related empirical strands. For each study we note its **modeling framework**, **empirical identification**, and **relevance for a Norwegian policy context** characterised by high fuel taxes, CO₂-based vehicle tax regimes and EV incentives.
+This review maps the literature, anchored in two central studies ([Adda & Cooper 2000](https://ideas.repec.org/a/ucp/jpolec/v108y2000i4p778-806.html); [Jacobsen & van Benthem 2015](https://www.aeaweb.org/articles?id=10.1257/aer.20130935)), and extending through related empirical strands. For each study we note its **modeling framework**, **empirical identification**, and **relevance for a Norwegian policy context** characterised by high fuel taxes, CO₂-based vehicle tax regimes and EV incentives.
 
 ---
 
@@ -63,16 +62,9 @@ Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcom
 
 ## Implications for Norway  
 
-- Norway’s high fuel and CO₂ taxes create strong incentives for efficient vehicle purchases—a context where **consumer behaviour aligns with economic rationality**, as [Busse et al. (2013)](https://www.aeaweb.org/articles?id=10.1257/aer.103.1.220) suggest.  
-- However, **raising new-car costs** (via standards or taxes) without addressing the **used-car market** risks delaying scrappage of old vehicles—the *Gruenspecht effect* demonstrated by [Jacobsen & van Benthem (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.20130935).  
-- One-off scrappage programmes risk only **pulling forward demand** rather than creating lasting turnover ([Adda & Cooper 2000](https://ideas.repec.org/a/ucp/jpolec/v108y2000i4p778-806.html); [Mian & Sufi 2012](https://academic.oup.com/qje/article/127/3/1107/1924374)).  
-- Given Norway’s mature EV market, the relevant frontier is **legacy ICE fleet turnover**. **Age- or emissions-based fees** or targeted scrappage could yield higher welfare and environmental gains, as shown in [Jacobsen et al. (2023)](https://academic.oup.com/qje/article/138/3/1907/7080183).  
-- Empirical methods from this literature—fuel-price instruments, eligibility cutoffs, and structural modeling—can be adapted to Norwegian data to estimate key parameters (e.g., scrap elasticity) and guide fleet-policy design.
+High fuel and CO₂ taxes already push Norwegian consumers toward efficient vehicles. Yet raising new-car costs without addressing the used-car market can slow retirement of older cars. Short-term scrappage programs mainly shift purchase timing rather than increase turnover. With the EV market now mature, the key challenge is accelerating the phase-out of legacy ICE vehicles. Age- or emission-based fees and targeted scrappage schemes could deliver greater welfare and environmental gains. Empirical tools such as fuel-price instruments, eligibility cutoffs, and structural models can be applied to Norwegian data to estimate scrap elasticities and inform fleet policy.
 
----
 
-*End of summary.*
-****
 
 
 
