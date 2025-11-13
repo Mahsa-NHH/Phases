@@ -46,8 +46,8 @@ Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcom
 |------------|------------------|--------------------------|
 | **Structural discrete-choice demand** | [Adda & Cooper (2000)](https://ideas.repec.org/a/ucp/jpolec/v108y2000i4p778-806.html); [Knittel (2011)](https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3368) | [McFadden (1972)](https://escholarship.org/content/qt61s3q2xr/qt61s3q2xr.pdf); [Berry, Levinsohn & Pakes (1993)](https://www.nber.org/papers/w4264) |
 | **Dynamic replacement modelling** | [Adda & Cooper (2000)](https://ideas.repec.org/a/ucp/jpolec/v108y2000i4p778-806.html); [Busse, Knittel & Zettelmeyer (2013)](https://www.aeaweb.org/articles?id=10.1257/aer.103.1.220) | [Rust (1987)](https://www.jstor.org/stable/1911259); [Hotz & Miller (1993)](https://www.jstor.org/stable/2298122) |
-| **Reduced-form causal econometrics** | [Jacobsen & van Benthem (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.20130935); [Mian & Sufi (2012)](https://academic.oup.com/qje/article/127/3/1107/1924374) | [Angrist & Krueger (1999)](https://www.jstor.org/stable/2648808); [Wooldridge (2002)](https://scholar.google.com/scholar?cluster=2502360196534246213) |
-| **Fleet equilibrium & simulation models** | [Knittel (2012)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Automobiles+on+Steroids%3A+Product+Attribute+Trade-Offs+and++Technological+Progress+in+the+Automobile+Sector&btnG=); [Jacobsen et al. (2023)](https://academic.oup.com/qje/article/138/3/1907/7080183) | [Small & van Dender (2007)](https://www.sciencedirect.com/science/article/abs/pii/S0095069607000241) |
+| **Reduced-form causal econometrics** | [Jacobsen & van Benthem (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.20130935); [Mian & Sufi (2012)](https://academic.oup.com/qje/article/127/3/1107/1924374) | [Angrist & Krueger (1999)](https://www.sciencedirect.com/science/chapter/handbook/abs/pii/S1573446399030047); [Wooldridge (2002)](https://d1wqtxts1xzle7.cloudfront.net/88168826/PDF-Econometric-Analysis-of-Cross-Section-and-Panel-Data-MIT-Press-libre.pdf?1656702871=&response-content-disposition=inline%3B+filename%3DEconometric_Analysis_of_Cross_Section_an.pdf&Expires=1763032940&Signature=Xt0h6eV39-~txWDH6E-EgY6SpSlrstZtNN8-mHmbWqf09amGPtwF34P~-CTL0jgCsBE5hZI-XvB5-qeCxVW7~WGdpF6EuETZP-JMffLltttCzklXgUZiOdScwnUkLwdi9Iqaqs0Jje3A3vfI~QQ082hu6SxW-eZFU4JzJvZaUWGv7ZkR9n-wXkQ0EXuYlfxaQt7sm9pK~3HUsr5GQUSCNT34672iFEL3G-1nGeIoElPB6O-fSSYtfK~LVG5TjXYex1gQWchE8GOcL~DwgfXy1H9thHX9XfDweBLoR1i9IJXjwnDXlIVMcNfp1Hrg3fHYg-Dy98MxyhCRWFaFG8pm9g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) |
+| **Fleet equilibrium & simulation models** | [Knittel (2011)](https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3368); [Jacobsen et al. (2023)](https://academic.oup.com/qje/article/138/3/1907/7080183?login=true) | [Small & van Dender (2007)](https://journals.sagepub.com/doi/abs/10.5547/ISSN0195-6574-EJ-Vol28-No1-2) |
 
 ---
 
@@ -56,14 +56,14 @@ Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcom
 | Period | Policy Episode | Key Study(s) |
 |---------|----------------|--------------|
 | **1994–96** | France: *Balladurette* & *Juppette* scrappage programmes | [Adda & Cooper (2000)](https://ideas.repec.org/a/ucp/jpolec/v108y2000i4p778-806.html) |
-| **2009** | U.S. *Cash for Clunkers* stimulus | [Mian & Sufi (2012)](https://academic.oup.com/qje/article/127/3/1107/1924374); [Li, Linn & Spiller (2013)](https://www.sciencedirect.com/science/article/abs/pii/S0095069612000678); [Hoekstra, Puller & West (2017)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cash+for+Corollas%3A+When+Stimulus+Reduces+Spending&btnG=) |
-| **2010s–2020s** | Fuel-economy standards, CO₂ taxation, and EV incentives | [Jacobsen & van Benthem (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.20130935); [Knittel (2012)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Automobiles+on+Steroids%3A+Product+Attribute+Trade-Offs+and++Technological+Progress+in+the+Automobile+Sector&btnG=); [Jacobsen et al. (2023)](https://academic.oup.com/qje/article/138/3/1907/7080183) |
+| **2009** | U.S. *Cash for Clunkers* stimulus | [Mian & Sufi (2012)](https://academic.oup.com/qje/article/127/3/1107/1924374); [Li, Linn & Spiller (2013)](https://www.sciencedirect.com/science/article/abs/pii/S0095069612000678); [Hoekstra, Puller & West (2017)](https://www.aeaweb.org/articles?id=10.1257/app.20150172) |
+| **2010s–2020s** | Fuel-economy standards, CO₂ taxation, and EV incentives | [Jacobsen & van Benthem (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.20130935); [Knittel (2011)](https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3368); [Jacobsen et al. (2023)](https://academic.oup.com/qje/article/138/3/1907/7080183) |
 
 ---
 
 ## Implications for Norway  
 
-- Norway’s high fuel and CO₂ taxes create strong incentives for efficient vehicle purchases—a context where **consumer behaviour aligns with economic rationality**, as [Busse et al. (2013)](https://www.jstor.org/stable/23594339) suggest.  
+- Norway’s high fuel and CO₂ taxes create strong incentives for efficient vehicle purchases—a context where **consumer behaviour aligns with economic rationality**, as [Busse et al. (2013)](https://www.aeaweb.org/articles?id=10.1257/aer.103.1.220) suggest.  
 - However, **raising new-car costs** (via standards or taxes) without addressing the **used-car market** risks delaying scrappage of old vehicles—the *Gruenspecht effect* demonstrated by [Jacobsen & van Benthem (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.20130935).  
 - One-off scrappage programmes risk only **pulling forward demand** rather than creating lasting turnover ([Adda & Cooper 2000](https://ideas.repec.org/a/ucp/jpolec/v108y2000i4p778-806.html); [Mian & Sufi 2012](https://academic.oup.com/qje/article/127/3/1107/1924374)).  
 - Given Norway’s mature EV market, the relevant frontier is **legacy ICE fleet turnover**. **Age- or emissions-based fees** or targeted scrappage could yield higher welfare and environmental gains, as shown in [Jacobsen et al. (2023)](https://academic.oup.com/qje/article/138/3/1907/7080183).  
@@ -73,6 +73,7 @@ Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcom
 
 *End of summary.*
 ****
+
 
 
 
