@@ -44,7 +44,7 @@ Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcom
 
 | Framework | Core Applications | Foundational References |
 |------------|------------------|--------------------------|
-| **Structural discrete-choice demand** | [Adda & Cooper (2000)](https://ideas.repec.org/a/ucp/jpolec/v108y2000i4p778-806.html); [Knittel (2011)](https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3368) | [McFadden (1972)](https://escholarship.org/content/qt61s3q2xr/qt61s3q2xr.pdf); [Berry, Levinsohn & Pakes (1995)](https://scholar.harvard.edu/files/stock/files/berry_levinsohn_pakes_1995.pdf) |
+| **Structural discrete-choice demand** | [Adda & Cooper (2000)](https://ideas.repec.org/a/ucp/jpolec/v108y2000i4p778-806.html); [Knittel (2011)](https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3368) | [McFadden (1972)](https://escholarship.org/content/qt61s3q2xr/qt61s3q2xr.pdf); [Berry, Levinsohn & Pakes (1993)](https://www.nber.org/papers/w4264) |
 | **Dynamic replacement modelling** | [Adda & Cooper (2000)](https://ideas.repec.org/a/ucp/jpolec/v108y2000i4p778-806.html); [Busse, Knittel & Zettelmeyer (2013)](https://www.jstor.org/stable/23594339) | [Rust (1987)](https://www.jstor.org/stable/1911259); [Hotz & Miller (1993)](https://www.jstor.org/stable/2298122) |
 | **Reduced-form causal econometrics** | [Jacobsen & van Benthem (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.20130935); [Mian & Sufi (2012)](https://academic.oup.com/qje/article/127/3/1107/1924374) | [Angrist & Krueger (1999)](https://www.jstor.org/stable/2648808); [Wooldridge (2002)](https://scholar.google.com/scholar?cluster=2502360196534246213) |
 | **Fleet equilibrium & simulation models** | [Knittel (2012)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Automobiles+on+Steroids%3A+Product+Attribute+Trade-Offs+and++Technological+Progress+in+the+Automobile+Sector&btnG=); [Jacobsen et al. (2023)](https://academic.oup.com/qje/article/138/3/1907/7080183) | [Small & van Dender (2007)](https://www.sciencedirect.com/science/article/abs/pii/S0095069607000241) |
@@ -73,6 +73,7 @@ Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcom
 
 *End of summary.*
 ****
+
 
 
 
