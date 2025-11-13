@@ -34,7 +34,7 @@ Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcom
 - **Relevance**: In Norway’s high fuel-cost environment, consumers likely value fuel economy strongly; scrappage programmes therefore serve more to overcome financing or liquidity constraints than behavioural biases.
 
 ### Emission-oriented fleet and technology models  
-- **[Knittel (2012)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Automobiles+on+Steroids%3A+Product+Attribute+Trade-Offs+and++Technological+Progress+in+the+Automobile+Sector&btnG=)** – Production-frontier model of vehicle attributes (1980–2006); shows that without strong regulation, technological progress favoured **power and size over fuel efficiency**, underscoring policy’s role in steering innovation.  
+- **[Knittel (2011)](https://www.aeaweb.org/articles?id=10.1257/aer.101.7.3368)** – Production-frontier model of vehicle attributes (1980–2006); shows that without strong regulation, technological progress favoured **power and size over fuel efficiency**, underscoring policy’s role in steering innovation.  
 - **[Jacobsen, Sallee, Shapiro & van Benthem (2023)](https://academic.oup.com/qje/article/138/3/1907/7080183)** – Develops a **quantitative fleet-equilibrium model** of the U.S. vehicle market to evaluate emission standards, age-based fees, and scrappage incentives. Finds that **older vehicles dominate residual pollution** and that **age- or emissions-based fees and targeted retirements** yield greater welfare and environmental benefits than further tightening new-car standards.  
 - **Relevance:** Together, these studies show that once new-car emissions are low (as in Norway’s EV market), the key challenge is **retiring older ICE vehicles**. Evidence supports **age- or emissions-linked fees** over additional purchase incentives to achieve deeper, faster decarbonisation.
 
@@ -73,5 +73,6 @@ Vehicle scrappage and fleet turnover are pivotal in shaping environmental outcom
 
 *End of summary.*
 ****
+
 
 
