@@ -17,3 +17,6 @@ Open Phase1_Data_Inventory_Memo.md to view the analysis and interpretations.
 
 Each figure (e.g., Fig. 1–28) corresponds to files inside the Plots/ folder.
 
+## literature_summary.md 
+A structured review of key academic studies on vehicle scrappage, fleet turnover, and related policy design.
+Summarizes modeling frameworks, identification strategies, and findings relevant to Norway’s EV transition and emission-reduction policies.
