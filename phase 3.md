@@ -39,7 +39,7 @@ Urban, high-toll regions show faster diesel retirement and higher EV shares; rur
 ### **3️⃣ Tax Design Shifts and Scrapping Patterns**
 
 **Goal:** Explore how Norway’s tax reform (weight/power → CO₂/NOₓ) changed which cars were scrapped.  
-**Data:** `vehicle_taxes_v2.csv`, `REGTEK_data`, `scrap_lifetime_analysis.csv`.  
+**Data:** `vehicle_taxes.csv`, `REGTEK_data`, `scrap_lifetime_analysis.csv`.  
 
 **Approach:**  
 - Tag scrap years by tax regime:  
@@ -63,3 +63,4 @@ Together, these analyses would show:
 
 **Deliverable:**  
 A short conceptual roadmap — not new plots yet — describing how these analyses would build toward evaluating Norway’s environmental vehicle policy impact.
+
