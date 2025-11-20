@@ -18,13 +18,13 @@ The main data backbone is the **Norwegian Public Roads Administration (NPRA) mot
 
 **Summary of Data Completeness by Vintage**
 
-| Decade | Registry    | Odometer | CO₂                     | NOₓ    |   |
-| ------ | ----------- | -------- | ----------------------- | ------ | - |
-| 1980s  | Partial     | 0        | 0                       | 0      |   |
-| 1990s  | Nearly full | <5%      | 0-10%                   | 0      |   |
-| 2000s  | Full        | >60%     | 40-70%                  | 10-60% |   |
-| 2010s  | Full        | >95%     | 20-70%                  | 40-60% |   |
-| 2020s  | Full        | >90%     | 10–20% (reporting lag)  | 10-40% |   |
+| Decade | Registry    | Odometer | CO₂                     | NOₓ     |   |
+| ------ | ----------- | -------- | ----------------------- | ------  | - |
+| 1980s  | Partial     | 0        | 0                       | 0       |   |
+| 1990s  | Nearly full | <20%     | 0-20%                   | 0-20%   |   |
+| 2000s  | Full        | >60%     | 60-100%                 | 20-90%  |   |
+| 2010s  | Full        | >95%     | 20-100%                 | 40-900% |   |
+| 2020s  | Full        | >90%     | 0–20% (reporting lag)   | 0-20%   |   |
 
 The registry achieves near-universal vehicle coverage by the mid-1990s. Emission variables become consistently available after the mid-2000s, coinciding with EU harmonization of CO₂ reporting. Odometer readings reach comprehensive coverage after 2004, reflecting the introduction of digital inspections under the EU’s roadworthiness framework. Consequently, the dataset is robust enough for detailed analysis from approximately 1995 onward.
 
